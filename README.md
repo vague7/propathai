@@ -1,5 +1,4 @@
 # ProPathAI
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/vague7/propathai.git)
 
 ProPathAI is an intelligent career development platform designed to assist users in advancing their professional journey. It leverages AI to provide personalized resume building, cover letter generation, interview preparation, and industry insights.
 
